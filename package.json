@@ -1,0 +1,15 @@
+{
+  "name": "effective-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Malcolm Kee",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.38",
+    "@types/react-dom": "^16.9.8",
+    "typescript": "^3.9.3"
+  }
+}
